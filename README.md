@@ -166,10 +166,8 @@ npm run build
 # Deploy dist folder
 ```
 
-## 📝 License
-
-MIT
 
 ## 👤 Author
 
-[Your Name]
+Kunal Titare
++91 6202745560
