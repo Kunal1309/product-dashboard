@@ -155,15 +155,9 @@ npm run test:coverage
 
 ## 🚀 Deployment
 
-### Vercel
-```bash
-vercel
-```
-
 ### Netlify
 ```bash
-npm run build
-# Deploy dist folder
+https://adorable-jalebi-4e611d.netlify.app/
 ```
 
 
